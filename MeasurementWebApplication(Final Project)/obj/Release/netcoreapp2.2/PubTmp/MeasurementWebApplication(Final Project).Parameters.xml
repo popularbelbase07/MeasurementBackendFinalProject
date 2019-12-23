@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MeasurementWebApplicationFinalProject2019" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\popul\\OneDrive\\Desktop\\Exam\ oriented\ projet\ for\ 3rd\ semester\\Third\ Semester\ Final\ Project\\MeasurementWebApplication\(Final\ Project\)\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
